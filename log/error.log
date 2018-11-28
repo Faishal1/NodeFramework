@@ -1,0 +1,73 @@
+{timestamp: 2018-11-26T10:54:21.708Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:54:51.307Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:55:28.631Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T11:21:04.437Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:21:42.640Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:22:02.281Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:24:52.679Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:25:49.931Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:26:56.536Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-26T11:27:34.804Z, level: error, message: failed to connect to server [0.0.0.0:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 0.0.0.0:27017]}
+{timestamp: 2018-11-27T14:04:24.767Z, level: error, message: API not found}
+{timestamp: 2018-11-27T14:06:14.675Z, level: error, message: API not found}
+{timestamp: 2018-11-27T14:08:23.222Z, level: error, message: API not found}
+{timestamp: 2018-11-27T14:11:08.201Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:28:15.759Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:28:39.287Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:39:07.253Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:39:13.444Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:39:14.770Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:40:27.358Z, level: error, message: API not found}
+{timestamp: 2018-11-28T05:41:29.275Z, level: error, message: _model2.default.findOne is not a function}
+{timestamp: 2018-11-28T05:44:38.280Z, level: error, message: _model2.default.find is not a function}
+{timestamp: 2018-11-28T05:53:34.748Z, level: error, message: query is not defined}
+{timestamp: 2018-11-28T05:56:10.991Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T05:56:30.843Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:00:49.832Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:05:07.427Z, level: error, message: _model2.default.find is not a function}
+{timestamp: 2018-11-28T06:08:33.896Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:09:38.466Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:11:40.280Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:12:48.517Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:13:29.879Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:14:13.373Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:14:35.260Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:15:54.590Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:19:27.729Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:20:14.766Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:22:39.568Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:23:06.345Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:24:19.778Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:25:13.958Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:32:24.573Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:34:46.182Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:39:36.510Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:40:20.058Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:40:50.961Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T06:43:30.531Z, level: error, message: Cannot read property 'userName' of undefined}
+{timestamp: 2018-11-28T06:58:38.854Z, level: error, message: Cannot read property 'limit' of undefined}
+{timestamp: 2018-11-28T07:07:55.023Z, level: error, message: Model.findOne is not a function}
+{timestamp: 2018-11-28T07:10:07.488Z, level: error, message: API not found}
+{timestamp: 2018-11-28T07:10:28.989Z, level: error, message: Model.findOne is not a function}
+{timestamp: 2018-11-28T07:12:59.425Z, level: error, message: Model.findOne is not a function}
+{timestamp: 2018-11-28T07:14:01.891Z, level: error, message: Model.findOne is not a function}
+{timestamp: 2018-11-28T07:15:26.455Z, level: error, message: Model.findOne is not a function}
+{timestamp: 2018-11-28T10:02:12.091Z, level: error, message: _jsconfig2.default.findOne is not a function}
+{timestamp: 2018-11-28T10:03:31.839Z, level: error, message: Cannot read property 'findOne' of undefined}
+{timestamp: 2018-11-28T10:09:04.399Z, level: error, message: Cannot read property 'findOne' of undefined}
+{timestamp: 2018-11-28T10:10:59.464Z, level: error, message: Cannot read property 'findOne' of undefined}
+{timestamp: 2018-11-28T10:13:42.435Z, level: error, message: Cannot read property 'User' of undefined}
+{timestamp: 2018-11-28T10:14:11.243Z, level: error, message: Cannot read property 'findOne' of undefined}
+{timestamp: 2018-11-28T10:15:30.814Z, level: error, message: Invalid value { userName: 'faishal' }}
+{timestamp: 2018-11-28T10:18:59.401Z, level: error, message: Invalid value { userName: 'faishal' }}
+{timestamp: 2018-11-28T10:20:16.316Z, level: error, message: Invalid value { userName: 'faishal' }}
+{timestamp: 2018-11-28T10:37:41.091Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:39:34.309Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:40:35.071Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:41:10.147Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:41:10.964Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:41:46.375Z, level: error, message: Cannot read property 'dataValues' of undefined}
+{timestamp: 2018-11-28T10:51:30.978Z, level: error, message: "expiresInMinutes" is not allowed in "options"}
+{timestamp: 2018-11-28T10:56:31.815Z, level: error, message: secret must be a string or buffer}
+{timestamp: 2018-11-28T10:58:26.614Z, level: error, message: invalid expiresIn option for number payload}
+{timestamp: 2018-11-28T10:59:19.409Z, level: error, message: invalid expiresIn option for string payload}

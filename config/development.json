@@ -1,0 +1,33 @@
+{
+    "env": "development",
+    "port": 4040,
+    "bodyLimit": "5mb",
+    "corsHeaders": ["Origin, X-Requested-With, Content-Type, Accept"],
+    "corsOrigin": ["*", "http://www.crictec.com"],
+    "database": {
+      "host": "0.0.0.0",
+      "port": "27017",
+      "user": "root",
+      "pass": "root",
+      "dbname": "crictecScoring-development"
+    },
+    "redis": {
+      "host": "172.31.26.14",
+      "port": "6379",
+      "password": "Qw3r7y"
+    },
+    "mysql":{
+      "DB_DATABASE":"eo",
+      "DB_USERNAME":"root",
+      "DB_PASSWORD":"root",
+      "DB_HOSTNAME":"0.0.0.0",
+      "DB_PORT":"3306",
+      "dialect":"mysql"
+    },
+    "jwt": {
+      "secret" : "someDevKey",
+      "tokenIssuer" : "Cricket Tech",
+      "tokenExpiry" : "60d"
+    },
+    "autoBackup": false
+  }
